@@ -6,7 +6,7 @@ A comprehensive analysis of the classic Air Passengers dataset (1949-1960).
 This script performs exploratory data analysis, builds multiple forecasting models,
 and evaluates their performance.
 
-Author: Your Name
+Author: Lucas Jialin Xu
 Date: 2025
 """
 
